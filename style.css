@@ -4,3 +4,7 @@ ul li a{
 .navbar-inverse{
     border-radius: 0 !important;
 }
+p{
+    color: aqua;
+    font-size: 22px;
+}
