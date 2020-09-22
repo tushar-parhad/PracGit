@@ -1,3 +1,6 @@
 ul li a{
-    color: red !important;
+    color: #fff !important;
+}
+.navbar-inverse{
+    border-radius: 0 !important;
 }
